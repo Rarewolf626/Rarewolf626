@@ -1,7 +1,7 @@
 <div theme=radical>
 <h2 align="center">Hi 👋, I'm Rare Wolf</h2>
 <h3 align="center">I am interested in Machine Learning and Full Stack Development</h3>
-  
+ 
 - 🌱 I’m currently learning **TALL Stack**
 
 - 👯 I’m looking to collaborate on **full stack projects**
@@ -61,3 +61,4 @@
 <a href="mailto:rarewolf626@gmail.com"><img width="60" src="https://user-images.githubusercontent.com/86986628/206201266-c519b0d4-d953-45c0-b9ec-253d639c828a.png"></a>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></br>
 </div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
