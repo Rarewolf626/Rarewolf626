@@ -6,6 +6,7 @@
 
   - 👯 I’m looking to collaborate on **Full Stack Projects**
   - 🧩 My favorite hobbies are programming 🤡, solving math problems and reading books.
+    
   -🎈 Feel free to contact me! I'm always available to discuss about Tech news, programming tricks and also to help you with your projects.
 
   - 👨‍💻 <a href="https://rarewolf626.github.io">View Portfolio</a>
