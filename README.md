@@ -19,7 +19,7 @@
       <img height="50" src="https://user-images.githubusercontent.com/86986628/186607307-19248a74-3ec4-4bfd-b368-d44a27b6606f.svg" width="50" alt="css" style="max-width: 100%;">
       <img height="50" src="https://user-images.githubusercontent.com/86986628/186607780-2ba1472e-07e5-4a98-9108-968ca3550229.svg" width="50" alt="bootstrap" style="max-width: 100%;">
       <img height="50" src="https://user-images.githubusercontent.com/86986628/186025766-5e1b4a99-194c-44c0-a345-791cc0910038.svg" width="50" alt="javascript" style="max-width: 100%;">
-      <img height="50" src="https://user-images.githubusercontent.com/86986628/166917536-56a29dea-f9f0-449c-a3aa-19962ff21e95.svg" width="50" alt="flutter" style="max-width: 100%;">
+      <img height="50" src="https://user-images.githubusercontent.com/86986628/166917536-56a29dea-f9f0-449c-a3aa-19962ff21e95.svg" width="50" alt="jquery" style="max-width: 100%;">
       <img height="50" src="https://user-images.githubusercontent.com/86986628/186025841-0c104922-84d3-44ef-9dd4-328e62160068.svg" width="50" alt="react" style="max-width: 100%;">
       <img height="50" src="https://user-images.githubusercontent.com/86986628/186042940-666ff3ee-03b6-4ca3-b3a6-8639e84dc642.png" width="50" alt="next" style="max-width: 100%;">
       <img height="50" src="https://user-images.githubusercontent.com/86986628/186025905-170d6e48-45f8-4ff9-829c-e2f9a3ebc2be.svg" width="50" alt="vue" style="max-width: 100%;">
